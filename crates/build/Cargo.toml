@@ -28,7 +28,7 @@ rustc_version = "0.4.1"
 scale = { package = "parity-scale-codec", version = "3.6.12", features = [
     "derive",
 ] }
-toml = "0.9.5"
+toml = "0.9.7"
 tracing = "0.1.41"
 semver = { version = "1.0.25", features = ["serde"] }
 serde = { version = "1", default-features = false, features = ["derive"] }
