@@ -22,3 +22,5 @@ cargo contract info \
 - `--output-json` to export the output as JSON.
 - `--binary` outputs the contract as a binary blob. If used in combination with `--output-json`, outputs the contract's binary as a JSON object with hex string.
 - `--all` outputs all contracts addresses. It can not be used together with `--binary` flag.
+
+<!-- Auto-update: 2025-10-06T14:42:49.386550 -->
