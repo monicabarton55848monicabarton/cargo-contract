@@ -129,3 +129,5 @@ argument to each of the extrinsic commands which allows specifying the contract 
 - `cargo upload ../path/to/mycontract.polkavm`
 - `cargo instantiate ../path/to/mycontract.contract`
 - `cargo call ..path/to/mycontract.json`
+
+<!-- Auto-update: 2025-10-12T20:40:32.618350 -->
